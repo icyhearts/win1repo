@@ -1,2 +1,2 @@
 #!/bin/bash
-git add makefile test.c gitadd.sh
+git add readme.txt makefile test.c gitadd.sh
